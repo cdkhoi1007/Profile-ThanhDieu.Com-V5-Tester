@@ -11,7 +11,7 @@ class ThanhDieuHeader implements ThanhDieuConfigInterface {
     public $description = "Hi my name is ThanhDieu / A freelance / web developer / vexer";
     public $keywords = "thanhdieu,web thanh dieu,vuong thanh dieu,thanhdieutv,wsteam,wusteam,thanhdieu home,profile thanhdieu";
     public $favicon = "./res/v5/img/logo.jpg";
-    public $namesite = "THANHDIEU | HOME";
+    public $namesite = "DANGKHOI | HOME";
     public $avatar = "./res/v5/img/avatar.gif";
     public $userName = ["Hello Everybody", "My name is ThanhDieu.", "I really like website design 🌭"];
     public $trigger = "👉 Tìm hiểu tôi 😶&zwj;🌫️";
