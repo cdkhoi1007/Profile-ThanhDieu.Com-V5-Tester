@@ -11,16 +11,12 @@ class ThanhDieuHeader implements ThanhDieuConfigInterface {
     public $description = "Hi my name is ThanhDieu / A freelance / web developer / vexer";
     public $keywords = "thanhdieu,web thanh dieu,vuong thanh dieu,thanhdieutv,wsteam,wusteam,thanhdieu home,profile thanhdieu";
     public $favicon = "./res/v5/img/logo.jpg";
-    public $namesite = "THANHDIEU | HOME";
+    public $namesite = "DANGKHOI | HOME";
     public $avatar = "./res/v5/img/avatar.gif";
     public $userName = ["Hello Everybody", "My name is ThanhDieu.", "I really like website design 🌭"];
-    public $trigger = "👉 Tìm hiểu tôi 😶&zwj;🌫️";
+    
     public $bio1 = "🤖️ Người đâm mê công nghệ số";
-    public $bio2 = "🔍 Chia sẻ và giúp đỡ nhiệt tình";
-    public $bio3 = "💻 Kỹ sư phát triển front-end";
-    public $bio4 = "Thích làm thần tượng tiktok 🥳";
-    public $bio5 = "Ăn, ngủ, làm và chơi game 🎮";
-    public $bio6 = "Kẻ khờ dại tin vào tình yêu ✨";
+    
     public $SocialNetworks = [
         "facebook" => "https://facebook.com/wusthanhdieu", // Thay link facebook
         "instagram" => "https://www.instagram.com/vuongsondieu2k2", // Thay link instagram
